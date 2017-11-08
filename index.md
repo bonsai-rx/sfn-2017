@@ -19,6 +19,123 @@ permalink: /
   </tr>
 </table>
 
+---
+
+![Devices in systems neuroscience](./assets/images/devices.jpg)
+
+---
+
+![Bonsai workflow editor](./assets/images/editor.jpg)
+
+---
+
+<!-- .element: data-transition="default none" -->
+#### A metaphor for reactive programming
+
+<img alt="Nasa twitter account" src="./assets/images/nasatwitter.jpg" width="400"/>
+
+--
+
+<!-- .element: data-transition="none" -->
+#### A metaphor for reactive programming
+
+<img alt="Webcam twitter account" src="./assets/images/webcamtwitter.jpg" width="400"/>
+
+---
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/cameracapture.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/framepicker-marblecanvas.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/graycam.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/graycam-marble.svg)
+<!-- .element: class="fragment" style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/framepicker-key.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/framepicker-marblecanvas.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/framepicker-capture.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/filecapture.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-grayscale.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/grayscalefile.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-grayscale.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/grayscaletransform.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-sample.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/sample.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-saveimage.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/saveimage.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-saveimage.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/saveimagesink.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-key.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/framepicker-marblecanvas.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/conditionkey.svg)
+<!-- .element: class="fragment" style="display: inline-block; vertical-align: middle;" -->
+
+---
+
+##### Operator Categories
+
+![Operator categories](./assets/images/categories.svg)
+<!-- .element: style="padding: 30px; display: inline-block; vertical-align: middle;" -->
+
 </script>
 </section>
 
