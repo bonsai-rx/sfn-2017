@@ -22,7 +22,17 @@ permalink: /
 
 ---
 
-![Devices in systems neuroscience](./assets/images/devices.jpg)
+#### Devices in systems neuroscience
+<div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Animal" src="./assets/images/devices-animal.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Camera" src="./assets/images/devices-camera.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Task" src="./assets/images/devices-task.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Imaging" src="./assets/images/devices-imaging.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Projector" src="./assets/images/devices-projector.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Ephys" src="./assets/images/devices-ephys.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Sync" src="./assets/images/devices-sync.svg"/></div>
+  <div class="fragment" style="position:absolute; left:25%;"><img alt="Computer" src="./assets/images/devices-computer.svg"/></div>
+</div>
 
 ---
 
