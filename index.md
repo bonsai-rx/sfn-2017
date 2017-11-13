@@ -36,7 +36,13 @@ permalink: /
 
 ---
 
-![Bonsai workflow editor](./assets/images/editor.jpg)
+#### System architecture metaphors
+<table style="width: 100%;">
+  <tr>
+    <th width="50%"><img alt="Client-Server" src="./assets/images/client-server.svg"/></th>
+    <th width="50%"><img alt="State-Machine" src="./assets/images/state-machine.svg"/></th>
+  </tr>
+</table>
 
 ---
 
@@ -51,6 +57,10 @@ permalink: /
 #### A metaphor for reactive programming
 
 <img alt="Webcam twitter account" src="./assets/images/webcamtwitter.jpg" width="400"/>
+
+---
+
+![Bonsai workflow editor](./assets/images/editor.jpg)
 
 ---
 
