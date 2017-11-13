@@ -190,5 +190,14 @@ permalink: /
 
 [bonsai-rx.org/sfn-2017](http://bonsai-rx.org/sfn-2017)
 
+#### All members of Kampff Lab and early adopters
+<table style="width: 100%;">
+  <tr>
+    <th width="25%" align="center"><img alt="Champalimaud Foundation" src="./assets/images/cf.png" height="100"/></th>
+    <th width="50%" align="center"><img alt="Sainsbury Wellcome Centre" src="./assets/images/swc.png" height="100"/></th>
+    <th width="25%"><img alt="NeuroGEARS" src="./assets/images/neurogears.svg" align="right"/></th>
+  </tr>
+</table>
+
 </script>
 </section>
