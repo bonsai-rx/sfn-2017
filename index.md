@@ -181,3 +181,12 @@ permalink: /
       </table>
     </section>
 </section>
+
+<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+<script type="text/template">
+
+### Thank You
+![Bonsai](./assets/images/bonsai-circle.svg)
+
+</script>
+</section>
