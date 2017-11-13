@@ -9,7 +9,7 @@ permalink: /
 ## Bonsai
 ![Bonsai](./assets/images/bonsai-circle.svg)
 
-[http://bonsai-rx.org](http://bonsai-rx.org)
+[bonsai-rx.org](http://bonsai-rx.org)
 
 ### A visual programming language for neuroscience
 <table style="width: 100%;">
@@ -187,6 +187,8 @@ permalink: /
 
 ### Thank You
 ![Bonsai](./assets/images/bonsai-circle.svg)
+
+[bonsai-rx.org/sfn-2017](http://bonsai-rx.org/sfn-2017)
 
 </script>
 </section>
